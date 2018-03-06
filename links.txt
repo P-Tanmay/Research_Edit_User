@@ -1,0 +1,40 @@
+Hello Justin,
+
+ 
+
+This is my GitHub repo link : https://github.com/P-Tanmay/Research_Edit_User
+
+ 
+
+The database Username and Password:
+
+ 
+
+Username : Tanmay
+
+Password : Tanmay
+
+ 
+
+ 
+
+Moreover, this all my tutorials link: 
+
+https://www.killersites.com/community/index.php?/topic/1969-basic-php-system-vieweditdeleteadd-records/
+ 
+
+https://stackoverflow.com/questions/13933078/check-if-user-is-admin-or-normal-user-php-session-and-mysql
+ 
+
+https://stackoverflow.com/questions/23585623/delete-rows-older-than-30-minutes-in-mysql
+ 
+
+ 
+
+And, one more thing I have transferred in Friday’s class.
+
+ 
+
+Thank you
+
+Tanmay Patel
